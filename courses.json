@@ -1,0 +1,30 @@
+[
+  {
+    "CourseNumber": 25427,
+    "Title": "C# Grundkurs",
+    "DurationDays": 20,
+    "StartDate": "2026-10-15T00:00:00",
+    "Type": 0
+  },
+  {
+    "CourseNumber": 54607,
+    "Title": "C# Forts\u00E4ttning",
+    "DurationDays": 20,
+    "StartDate": "2026-11-15T00:00:00",
+    "Type": 0
+  },
+  {
+    "CourseNumber": 58578,
+    "Title": "Databasteknik",
+    "DurationDays": 20,
+    "StartDate": "2026-12-15T00:00:00",
+    "Type": 1
+  },
+  {
+    "CourseNumber": 14710,
+    "Title": "c\u002B\u002B",
+    "DurationDays": 60,
+    "StartDate": "2026-10-05T00:00:00",
+    "Type": 0
+  }
+]
